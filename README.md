@@ -24,8 +24,8 @@
 ![selenium](https://img.shields.io/badge/-selenium-1f1f1f?style=for-the-badge&logo=selenium)
 ### My queue for study
 
-![go](https://img.shields.io/badge/-go-1f1f1f?style=for-the-badge&logo=go
-![hugo](https://img.shields.io/badge/-hugo-1f1f1f?style=for-the-badge&logo=hugo))
+![go](https://img.shields.io/badge/-go-1f1f1f?style=for-the-badge&logo=go)
+![hugo](https://img.shields.io/badge/-hugo-1f1f1f?style=for-the-badge&logo=hugo)
 ![hadoop](https://img.shields.io/badge/-hadoop-1f1f1f?style=for-the-badge&logo=apachehadoop)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-1f1f1f?style=for-the-badge&logo=clickhouse)
 ![geminiprotocol](https://img.shields.io/badge/-geminiprotocol-1f1f1f?style=for-the-badge&logo=geminiprotocol))
