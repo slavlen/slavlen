@@ -5,7 +5,7 @@
 ![postgres](https://img.shields.io/badge/-postgres-1f1f1f?style=for-the-badge&logo=postgres)
 ![kafka](https://img.shields.io/badge/-kafka-1f1f1f?style=for-the-badge&logo=kafka)
 ![redis](https://img.shields.io/badge/-redis-1f1f1f?style=for-the-badge&logo=redis)
-![elasticsearch](https://img.shields.io/badge/-elasticsearch-1f1f1f?style=for-the-badge&logo=elasticsearch)
+![elasticsearch](https://img.shields.io/badge/-elasticsearch-1f1f1f?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 ![mongo](https://img.shields.io/badge/-mongo-1f1f1f?style=for-the-badge&logo=mongo)
 
 ![prometheus](https://img.shields.io/badge/-prometheus-1f1f1f?style=for-the-badge&logo=prometheus)
@@ -17,7 +17,7 @@
 ![kubernetes](https://img.shields.io/badge/-kubernetes-1f1f1f?style=for-the-badge&logo=kubernetes)
 ![k3s](https://img.shields.io/badge/-k3s-1f1f1f?style=for-the-badge&logo=k3s)
 ![nginx](https://img.shields.io/badge/-nginx-1f1f1f?style=for-the-badge&logo=nginx)
-![bash](https://img.shields.io/badge/-bash-1f1f1f?style=for-the-badge&logo=bash)
+![bash](https://img.shields.io/badge/-bash-1f1f1f?style=for-the-badge&logo=gnubash)
 
 ### My queue for study
 
