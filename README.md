@@ -29,4 +29,5 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/Slavlen01)
 
-### My visitors: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=slavlen.slavlen)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=slavlen.slavlen)
