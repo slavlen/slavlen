@@ -33,7 +33,7 @@
 
 ### My contacts:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/Slavlen01)
-
+[![telegram](https://img.shields.io/badge/-Slavlen01-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/Slavlen01)
+[![gmail](https://img.shields.io/badge/-Slavlen01-1f1f1f?style=for-the-badge&logo=gmail)](slavlen2001@gmail.com)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=slavlen.slavlen)
