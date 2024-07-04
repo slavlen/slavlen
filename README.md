@@ -1,4 +1,4 @@
-###🛠  My Languages and Tools:
+### My Languages and Tools:
 
 ![python](https://img.shields.io/badge/-python-1f1f1f?style=for-the-badge&logo=python)
 
@@ -19,14 +19,14 @@
 ![nginx](https://img.shields.io/badge/-nginx-1f1f1f?style=for-the-badge&logo=nginx)
 ![bash](https://img.shields.io/badge/-bash-1f1f1f?style=for-the-badge&logo=bash)
 
-###📕 My queue for study
+### My queue for study
 
 ![go](https://img.shields.io/badge/-go-1f1f1f?style=for-the-badge&logo=go)
 ![hadoop](https://img.shields.io/badge/-hadoop-1f1f1f?style=for-the-badge&logo=hadoop)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-1f1f1f?style=for-the-badge&logo=clickhouse)
 
-###📫 My contacts:
+### My contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/Slavlen01)
 
-###👁️ My visitors: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=slavlen.slavlen)
+### My visitors: ![visitors](https://visitor-badge.laobi.icu/badge?page_id=slavlen.slavlen)
