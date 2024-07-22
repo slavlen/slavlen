@@ -29,6 +29,7 @@
 ![hugo](https://img.shields.io/badge/-hugo-1f1f1f?style=for-the-badge&logo=hugo)
 ![hadoop](https://img.shields.io/badge/-hadoop-1f1f1f?style=for-the-badge&logo=apachehadoop)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-1f1f1f?style=for-the-badge&logo=clickhouse)
+![rabbitmq](https://img.shields.io/badge/-rabbitmq-1f1f1f?style=for-the-badge&logo=rabbitmq)
 
 ### My contacts:
 
