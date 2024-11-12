@@ -3,7 +3,6 @@
 ![python](https://img.shields.io/badge/-python-1f1f1f?style=for-the-badge&logo=python)
 
 ![postgres](https://img.shields.io/badge/-postgres-1f1f1f?style=for-the-badge&logo=postgresql)
-![kafka](https://img.shields.io/badge/-kafka-1f1f1f?style=for-the-badge&logo=apachekafka)
 ![redis](https://img.shields.io/badge/-redis-1f1f1f?style=for-the-badge&logo=redis)
 ![minio](https://img.shields.io/badge/-minio-1f1f1f?style=for-the-badge&logo=minio)
 
@@ -23,8 +22,10 @@
 ### My queue for study
 ![go](https://img.shields.io/badge/-go-1f1f1f?style=for-the-badge&logo=go)
 ![hugo](https://img.shields.io/badge/-hugo-1f1f1f?style=for-the-badge&logo=hugo)
+![hadoop](https://img.shields.io/badge/-hadoop-1f1f1f?style=for-the-badge&logo=apachehadoop)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-1f1f1f?style=for-the-badge&logo=clickhouse)
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-1f1f1f?style=for-the-badge&logo=rabbitmq)
+![mongo](https://img.shields.io/badge/-mongo-1f1f1f?style=for-the-badge&logo=mongodb)
 ![kafka](https://img.shields.io/badge/-kafka-1f1f1f?style=for-the-badge&logo=apachekafka)
 
 ### My contacts:
