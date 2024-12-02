@@ -1,6 +1,7 @@
 ### My Languages and Tools:
 
 ![python](https://img.shields.io/badge/-python-1f1f1f?style=for-the-badge&logo=python)
+![ansible](https://img.shields.io/badge/-ansible-1f1f1f?style=for-the-badge&logo=ansible)
 
 ![postgres](https://img.shields.io/badge/-postgres-1f1f1f?style=for-the-badge&logo=postgresql)
 ![redis](https://img.shields.io/badge/-redis-1f1f1f?style=for-the-badge&logo=redis)
