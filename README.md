@@ -27,6 +27,7 @@
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-1f1f1f?style=for-the-badge&logo=rabbitmq)
 ![mongo](https://img.shields.io/badge/-mongo-1f1f1f?style=for-the-badge&logo=mongodb)
 ![kafka](https://img.shields.io/badge/-kafka-1f1f1f?style=for-the-badge&logo=apachekafka)
+![terraform](https://img.shields.io/badge/-terraform-1f1f1f?style=for-the-badge&logo=terraform)
 
 ### My contacts:
 
