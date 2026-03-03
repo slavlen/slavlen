@@ -21,8 +21,6 @@
 ![selenium](https://img.shields.io/badge/-selenium-1f1f1f?style=for-the-badge&logo=selenium)
 
 ### My queue for study
-![go](https://img.shields.io/badge/-go-1f1f1f?style=for-the-badge&logo=go)
-![hugo](https://img.shields.io/badge/-hugo-1f1f1f?style=for-the-badge&logo=hugo)
 ![clickhouse](https://img.shields.io/badge/-clickhouse-1f1f1f?style=for-the-badge&logo=clickhouse)
 ![rabbitmq](https://img.shields.io/badge/-rabbitmq-1f1f1f?style=for-the-badge&logo=rabbitmq)
 ![mongo](https://img.shields.io/badge/-mongo-1f1f1f?style=for-the-badge&logo=mongodb)
@@ -31,7 +29,7 @@
 
 ### My contacts:
 
-[![telegram](https://img.shields.io/badge/-Slavlen01-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/Slavlen01)
+[![telegram](https://img.shields.io/badge/-Slavlen01-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/thedarkfellow)
 [![gmail](https://img.shields.io/badge/-Slavlen2001@gmail.com-1f1f1f?style=for-the-badge&logo=gmail)](mailto:slavlen2001@gmail.com)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=slavlen.slavlen)
