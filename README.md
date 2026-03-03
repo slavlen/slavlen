@@ -29,7 +29,7 @@
 
 ### My contacts:
 
-[![telegram](https://img.shields.io/badge/-Slavlen01-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/thedarkfellow)
+[![telegram](https://img.shields.io/badge/-thedarkfellow-1f1f1f?style=for-the-badge&logo=telegram)](https://t.me/thedarkfellow)
 [![gmail](https://img.shields.io/badge/-Slavlen2001@gmail.com-1f1f1f?style=for-the-badge&logo=gmail)](mailto:slavlen2001@gmail.com)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=slavlen.slavlen)
